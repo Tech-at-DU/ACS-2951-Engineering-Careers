@@ -1,5 +1,5 @@
-<!-- Run as a slideshow: reveal-md Lessons/Lesson1.md -w -->
-# Ticket Writing
+<!-- Run as a slideshow: reveal-md Lessons/tickets.md -w -->
+# Ticket Writing — Day 6
 
 ⭐️ **GOAL:** Walk out able to write a feature ticket a teammate can start from, ROAM a known risk, and file a bug with repro plus current vs expected.
 
@@ -18,7 +18,7 @@
 <!-- omit in toc -->
 ## 🏆 Objectives
 
-*By the end of this session, you'll be able to&hellip;*
+*By the end of this block, you'll be able to&hellip;*
 
 1. Split one feature into tickets a teammate can start without a hallway conversation
 1. Judge whether a ticket has enough to start — story, requirements, why, edges, risks
@@ -338,7 +338,7 @@ If stuck: write only the user story and the out-of-scope line, then fill require
 | --- | --- |
 | **Next action** | Write a bug ticket (real or the thread-push scenario). Then run the checklist on *your* Activity 1 ticket. |
 | **Done when** | Bug ticket has summary, diagnostics, numbered repro, current, and expected. You can say one thing you changed on the feature ticket after the checklist. |
-| **Artifact** | Bug ticket + a one-line note: “Changed ___ because ___.” |
+| **Artifact** | Bug ticket + a one-line note: `Changed ___ because ___.` |
 | **Checkpoint** | Paste the bug **title + expected** line. |
 
 ### Bug skeleton (copy)
@@ -432,12 +432,14 @@ Tomorrow's first 15m:
 <details>
 <summary>For curriculum authors</summary>
 
+## For curriculum authors
+
 ### In Class
 
 | | |
 | --- | --- |
 | **Next action** | Open this file → skim the Agenda jump list → start at the GOAL, then Warm Up. |
-| **Done when** | The room can write a five-part feature ticket, ROAM one risk, and file a bug with repro + current vs expected. |
+| **Done when** | You can write a five-part feature ticket, ROAM one risk, and file a bug with repro + current vs expected. |
 | **≤2m next** | Optional sticky in notes: Feeling / Behind\|On track\|Ahead / Today’s MVP. |
 
 ```text
