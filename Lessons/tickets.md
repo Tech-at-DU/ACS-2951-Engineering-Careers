@@ -465,7 +465,7 @@ Flag for follow-up (do not block the live block):
 
 1. **Tracker of record** — GitHub Issues, Linear, Jira? Skeletons are tracker-agnostic on purpose.
 2. **PRD vs ticket** — confirm the prior session still assigns a thin PRD; Activity 1 should *not* rewrite the whole PRD.
-3. **ROAM depth** — SAFe article is background only; four letters + a name is the live bar.
+3. **ROAM depth** — SAFe article is background only; four letters + a name is the live floor.
 4. **Old numbered path** — keep `06-tickets.md` as a stub so old bookmarks don’t 404.
 
 </details>
