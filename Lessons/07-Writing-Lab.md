@@ -1,16 +1,16 @@
 <!-- Run as a slideshow: reveal-md Lessons/writing-lab.md -w -->
 # Writing Lab — Day 7
 
-⭐️ **GOAL:** Leave with a shareable project write-up draft that uses peer feedback and patterns from high-signal eng posts — not a stack dump with no problem statement.
+⭐️ **GOAL:** Leave with a project write-up draft you can link, shaped by peer feedback and patterns from strong eng posts.
 
 <!-- omit in toc -->
 ## ⏱ Agenda
 
 - [[**10m**] ☀️ Warm Up](#10m-️-warm-up)
-- [[**35m**] 📚 TT: Write-ups that travel](#35m--tt-write-ups-that-travel)
+- [[**35m**] 📚 TT: Write-ups others can use](#35m--tt-write-ups-others-can-use)
 - [[**10m**] 🌴 Break](#10m--break)
-- [[**25m**] 💻 Activity 1](#25m--activity-1)
-- [[**35m**] 💻 Activity 2](#35m--activity-2)
+- [[**25m**] 💻 Activity 1: Analyze Hacker News High Ranking Posts](#25m--activity-1-analyze-hacker-news-high-ranking-posts)
+- [[**35m**] 💻 Activity 2: Draft Your Project Write-Up](#35m--activity-2-draft-your-project-write-up)
 - [[**5m**] Wrap Up](#5m-wrap-up)
 
 <!-- > -->
@@ -20,18 +20,16 @@
 
 *By the end of this session, you'll be able to&hellip;*
 
-1. Name three patterns that show up in high-signal eng write-ups (and three that kill them)
+1. Name three patterns that show up in strong eng write-ups (and three that weaken them)
 1. Turn peer feedback into concrete edits on a project narrative
-1. Draft a shareable project write-up with challenge, approach, outcome, and one takeaway
+1. Draft a project write-up with challenge, approach, outcome, and one takeaway
 1. Leave a clear next-step note so next week’s final-project / demo work has a first cut
-
-**How you’ll know:** Activity 1 produces a pattern list + feedback map. Activity 2 produces a shareable doc with all four sections filled (even if rough).
 
 <!-- > -->
 
 ## [**10m**] ☀️ Warm Up
 
-Last session: tickets a teammate can start from — story, requirements, business value, edges, ROAM. Tickets hand off *work*. Today’s write-up hands off *story* — why this project exists, what you tried, what stuck.
+Last session: tickets a teammate can start from — story, requirements, business value, edges, ROAM. Tickets pass *work*. Today’s write-up passes *story* — why this project exists, what you tried, what stuck.
 
 **Scene:** Someone pastes a project into a public channel:
 
@@ -41,66 +39,66 @@ It was hard but I learned a lot.
 Link soon.
 ```
 
-Three readers, three shrugs. No challenge. No decision. No lesson anyone else can steal.
+Three readers, three shrugs. No challenge. No decision. No lesson anyone else can reuse.
 
 Think and jot (60s):
 
 ```text
 One sentence on the challenge that forced this project:
-One decision a stranger would care about:
+One decision a new reader would care about:
 One takeaway I want them to keep:
 ```
 
 Say:
 
-> “A project write-up is a handoff across time — same as a ticket. Future-you, a hiring manager, and a teammate onboarding next quarter all need the same spine: challenge → approach → outcome → takeaway.”
+> “A project write-up passes context forward the same way a ticket does. You next quarter, a hiring manager, and a teammate onboarding later all need the same outline: challenge → approach → outcome → takeaway.”
 
-**Rookie tip:** if you cannot name the challenge in one sentence, you don’t have a write-up yet. You have a changelog.
+**PROTIP:** if you cannot name the challenge in one sentence, you don’t have a write-up yet. You have a changelog.
 
 <!-- > -->
 
-## [**35m**] 📚 TT: Write-ups that travel
+## [**35m**] 📚 TT: Write-ups others can use
 
-**Next action:** Patterns from high-signal posts → feedback that lands → four-section draft spine.  
-**Done when:** You can mark a draft “shareable” or “not yet” and name the missing section.  
+**Next action:** Patterns from strong posts → feedback that names a fix → four-section draft outline.  
+**Done when:** You can mark a draft “ready to link” or “still needs work” and name the missing section.  
 **≤2m next after TT:** Open Activity 1; skim the HN / Observable list with one review goal.
 
 ### 1. Why the write-up exists (~6m)
 
-Code alone rarely travels. The write-up is how the *decision* travels — what broke, what you tried, what you’d do again.
+Code alone rarely carries a decision. The write-up is how the *decision* reaches someone who wasn’t in the room — what broke, what you tried, what you’d do again.
 
-On the job you’ll ship READMEs, RFC notes, postmortems, and “what we built” posts. Same spine every time. Fancy voice is optional. Clear sections are not.
+On the job you’ll publish READMEs, RFC notes, postmortems, and “what we built” posts. Same outline every time. Fancy voice is optional. Clear sections are not.
 
-**Rookie trap:** writing for people who already sat in the room. If the draft only works while you’re narrating it live, it isn’t a write-up yet.
+**BE AWARE:** writing for people who already sat in the room. If the draft only works while you’re narrating it live, it isn’t a write-up yet.
 
 <!-- -->
 
-> **ASK AUDIENCE:** “Built a cool app with React and Postgres. Learned a lot.” — can a stranger decide whether to open the repo?
+> **ASK AUDIENCE:** “Built a cool app with React and Postgres. Learned a lot.” — can a new reader decide whether to open the repo?
 
 <details>
 <summary>Answer</summary>
 
-**No.** Missing: who it was for, what problem hurt, what you chose and why, what still fails, and the one lesson worth stealing. The first fix is one sentence of *challenge*, not another tech list.
+**No.** Missing: who it was for, what problem hurt, what you chose and why, what still fails, and the one lesson worth keeping. The first fix is one sentence of *challenge*, not another tech list.
 
 </details>
 
-### 2. What high-signal eng posts share (~12m)
+### 2. What strong eng posts share (~12m)
 
 Look at patterns in [HN favorites analysis (Observable)](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis) and skim live [Hacker News](https://news.ycombinator.com/) plus the [HN guidelines](https://news.ycombinator.com/newsguidelines.html). You’re hunting structure, not karma.
 
-Common patterns in posts that travel:
+Common patterns in posts that hold up under a quick skim:
 
 | Pattern | Looks like | Test |
 | --- | --- | --- |
-| **Concrete problem** | A person + a pain, not “I wanted to learn X” | A stranger nods before the stack appears |
+| **Concrete problem** | A person + a pain, not “I wanted to learn X” | A new reader nods before the stack appears |
 | **Decisions, not diaries** | Tradeoffs you picked and what you refused | Someone could disagree with you in a comment |
-| **Receipts** | Numbers, screenshots, failure modes, before/after | Claim without evidence gets cut |
+| **Evidence** | Numbers, screenshots, failure modes, before/after | Claim without proof gets cut |
 | **One takeaway** | The one sentence you’d keep | Not five morals and a shrug |
 | **Respect the reader** | Short paragraphs, honest limits, no hype fog | Skimmable in under two minutes |
 
-Anti-patterns that kill trust:
+Anti-patterns that weaken trust:
 
-- Stack dump with no problem statement
+- Tech list with no challenge named
 - “It was hard” with no *what* was hard
 - Victory lap with zero failure modes
 - Secret jargon that only the team understands
@@ -108,9 +106,9 @@ Anti-patterns that kill trust:
 
 Say:
 
-> “You’re not writing for HN points. You’re stealing the *shape* of posts that respect a busy engineer’s time.”
+> “Skip writing for karma. Copy the *shape* of posts that respect someone who has two minutes.”
 
-**Rookie tip:** open with the pain, not the framework. The stack is secondary. The challenge is the story.
+**PROTIP:** open with the pain, not the framework. The stack is secondary. The challenge is the story.
 
 <!-- -->
 
@@ -119,26 +117,26 @@ Say:
 <details>
 <summary>Answer</summary>
 
-**Anti-pattern until receipts appear.** A rewrite claim without before/after (latency, error rate, cost, or a named incident) is a diary entry. Add one metric or one failure mode and it becomes a decision someone else can evaluate.
+**Anti-pattern until evidence appears.** A rewrite claim without before/after (latency, error rate, cost, or a named incident) is a diary entry. Add one metric or one failure mode and it becomes a decision someone else can evaluate.
 
 </details>
 
 ### 3. Peer feedback that becomes edits (~8m)
 
-Feedback that only says “looks good” doesn’t ship. Feedback that lands names a section.
+Feedback that only says “looks good” doesn’t move the draft. Feedback that helps names a section.
 
 Use this map when you read someone’s draft (or your own):
 
 ```text
 Section that is strong:
-Section that is missing or foggy:
+Section that is missing or unclear:
 One cut I would make:
-One question a stranger would still ask:
+One question a new reader would still ask:
 ```
 
-On the job this is PR review energy applied to narrative. Same rule as tickets: if you can’t start from it without the author in Slack, send it back with the missing section named.
+On the job this is the same standard as ticket review applied to narrative. Same rule as tickets: if you can’t start from it without the author in Slack, send it back with the missing section named.
 
-**Rookie trap:** rewriting their voice. Fix clarity and missing sections. Leave the personality unless they asked for a tone pass.
+**BE AWARE:** rewriting their voice. Fix clarity and missing sections. Leave the personality unless they asked for a tone pass.
 
 <!-- -->
 
@@ -147,29 +145,29 @@ On the job this is PR review energy applied to narrative. Same rule as tickets: 
 <details>
 <summary>Answer</summary>
 
-**Incomplete.** Name the section: which part drifts, what claim lacks a receipt, or which paragraph repeats the challenge. “Tighten” without a pointer is vague. “Cut the third paragraph — it restates the challenge without a decision” is feedback.
+**Incomplete.** Name the section: which part drifts, what claim lacks evidence, or which paragraph repeats the challenge. “Tighten” without a pointer is vague. “Cut the third paragraph — it restates the challenge without a decision” is feedback.
 
 </details>
 
-### 4. Four-section draft spine (~9m)
+### 4. Four-section draft outline (~9m)
 
-Your shareable draft needs four sections. Skip one and someone invents it.
+Your draft needs four sections. Skip one and someone invents it.
 
 | Section | Job | Prompt |
 | --- | --- | --- |
 | **Challenge** | Why this existed | What hurt? For whom? Why now? |
 | **Approach** | What you tried and chose | Stack, cuts, tradeoffs, what you refused |
-| **Outcome** | What changed | Works / partial / failed — with one receipt |
-| **Takeaway** | What a reader steals | One sentence. Not five. |
+| **Outcome** | What changed | Works / partial / failed — with one piece of evidence |
+| **Takeaway** | What a reader keeps | One sentence. Not five. |
 
-Worked thin example (threads feature from earlier sessions):
+Short worked example (threads feature from earlier sessions):
 
 ```text
 Challenge:
 Busy channels buried decisions. Teammates re-litigated the same call in standups.
 
 Approach:
-Shipped one-level thread replies with a stable URL. Refused infinite nest and emoji-only threads for v1.
+Released one-level thread replies with a stable URL. Refused infinite nest and emoji-only threads for v1.
 
 Outcome:
 Launch-week decisions lived in one URL. Notification fanout on mobile is still noisy — batched pushes are next.
@@ -182,7 +180,7 @@ Reuse Slack notes, ticket language, and peer replies. Don’t start from a blank
 
 Say:
 
-> “Thin write-up first. Challenge + approach + outcome + one takeaway. Polish after the spine exists.”
+> “Short draft first. Challenge + approach + outcome + one takeaway. Polish after the outline exists.”
 
 <!-- -->
 
@@ -191,7 +189,7 @@ Say:
 <details>
 <summary>Answer</summary>
 
-**Challenge and takeaway are missing; outcome is thin.** There’s a stack and a ship date, but no pain, no decision, no receipt, and nothing a stranger should remember. Add who hurt, what you refused, one metric or failure mode, and one takeaway sentence.
+**Challenge and takeaway are missing; outcome is light.** There’s a stack and a deploy date, but no pain, no decision, no evidence, and nothing a new reader should remember. Add who hurt, what you refused, one metric or failure mode, and one takeaway sentence.
 
 </details>
 
@@ -201,15 +199,15 @@ Say:
 
 <!-- > -->
 
-## [**25m**] 💻 Activity 1
+## [**25m**] 💻 Activity 1: Analyze Hacker News High Ranking Posts
 
-**Done when:** You have (1) three patterns you’ll steal, (2) two anti-patterns you’ll avoid, (3) a feedback map on one draft section (yours or a teammate’s prior notes).
+**Done when:** You have (1) three patterns you’ll reuse, (2) two anti-patterns you’ll avoid, (3) a feedback map on one draft section (yours or a teammate’s prior notes).
 
 1. Open the [Observable HN favorites analysis](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis) and skim [HN](https://news.ycombinator.com/) for five minutes. Solo is fine.
 1. Fill this card:
 
 ```text
-Patterns to steal (3):
+Patterns to reuse (3):
 Anti-patterns to avoid (2):
 One title/hook shape I want to try:
 ```
@@ -218,36 +216,36 @@ One title/hook shape I want to try:
 
 ```text
 Section that is strong:
-Section that is missing or foggy:
+Section that is missing or unclear:
 One cut I would make:
-One question a stranger would still ask:
+One question a new reader would still ask:
 ```
 
-**Rookie tip for on-the-job success:** stop at the card. Do not start the full essay until Activity 2. Pattern first, prose second.
+**PROTIP:** stop at the card. Do not start the full essay until Activity 2. Pattern first, prose second.
 
 If you finish early: rewrite one weak title into a challenge-first hook (no stack in the title).
 
 <!-- > -->
 
-## [**35m**] 💻 Activity 2
+## [**35m**] 💻 Activity 2: Draft Your Project Write-Up
 
-**Done when:** A shareable doc (Google Doc, Notion, or repo README draft) has all four sections filled — rough is fine; empty sections are not.
+**Done when:** A draft you can link (Google Doc, Notion, or repo README) has all four sections filled — rough is fine; empty sections are not.
 
-1. Create or open a shareable doc titled with the *challenge*, not the stack.
-1. Paste the four-section spine. Fill each section in order. Reuse channel notes and Activity 1 feedback.
-1. Add one receipt under Outcome (metric, screenshot note, or named failure mode).
+1. Create or open a doc titled with the *challenge*, not the stack.
+1. Paste the four-section outline. Fill each section in order. Reuse channel notes and Activity 1 feedback.
+1. Add one piece of evidence under Outcome (metric, screenshot note, or named failure mode).
 1. End with a single takeaway sentence.
 
 Prompts if a section stalls:
 
-- Challenge: What forced this — assignment pressure is allowed, but name the *user* pain too.
-- Approach: Which technology did you pick, and what did you refuse?
-- Outcome: Did the challenge move? Why or why not?
-- Takeaway: What should a reader remember after they close the tab?
+- **Challenge**: What forced this — assignment pressure is allowed, but name the *user* pain too.
+- **Approach**: Which technology did you pick, and what did you refuse?
+- **Outcome**: Did the challenge move? Why or why not?
+- **Takeaway**: What should a reader remember after they close the tab?
 
 **Stretch:** swap docs for 90 seconds — a teammate names one missing section only, then return to writing.
 
-**Rookie tip:** ship an ugly complete spine over a polished first paragraph. Next week’s final-project / demo work needs a story you can point at.
+**PROTIP:** publish an ugly complete outline over a polished first paragraph. Next week’s final-project / demo work needs a story you can point at.
 
 <!-- > -->
 
@@ -255,22 +253,22 @@ Prompts if a section stalls:
 
 **GOAL check:** You can say, in one breath:
 
-1. Write-ups hand off story the way tickets hand off work.
-1. High-signal posts: concrete problem, decisions, receipts, one takeaway.
+1. Write-ups pass story the way tickets pass work.
+1. Strong posts: concrete problem, decisions, evidence, one takeaway.
 1. Feedback names a section — “tighten” alone is incomplete.
 1. Four sections: challenge → approach → outcome → takeaway.
 
 **≤2m wrap note (optional):**
 
 ```text
-Shipped today (spine sections filled):
-Section still foggy:
+Finished today (outline sections filled):
+Section still unclear:
 Tomorrow's first 15m (final-project / demo cut):
 ```
 
 - Finish any empty section before next session
 - One thing to try if stuck: rewrite *only* the challenge sentence — then stop
-- Next week leans final project / demo — this write-up is the story you’ll point at when demos wobble
+- Next week leans final project / demo — this write-up is the story you’ll point at if demos go sideways
 
 <!-- > -->
 
@@ -279,7 +277,7 @@ Tomorrow's first 15m (final-project / demo cut):
 1. **[HN favorites analysis (Observable)](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis)** — patterns across highly favorited HN posts (structure hunt, not karma chase).
 1. **[Hacker News](https://news.ycombinator.com/)** — live front page for skimming hooks and titles.
 1. **[HN guidelines](https://news.ycombinator.com/newsguidelines.html)** — what the community treats as substantive vs. fluff.
-1. **[GitHub — About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)** — same spine often lands in the repo root.
+1. **[GitHub — About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)** — the same outline often shows up in the repo root.
 1. **[Write the Docs — docs principles](https://www.writethedocs.org/guide/writing/docs-principles/)** — audience-first framing for technical narrative.
 
 <details>
@@ -292,33 +290,33 @@ Tomorrow's first 15m (final-project / demo cut):
 | | |
 | --- | --- |
 | **Next action** | Open this file → Agenda jump list → GOAL → Warm Up. |
-| **Done when** | Room can mark a draft shareable/not-yet and has a four-section spine in a shareable doc. |
+| **Done when** | Room can mark a draft ready-to-link / still-needs-work and has a four-section outline in a linkable doc. |
 | **≤2m next** | Optional note: Feeling / Behind|On track|Ahead / Today’s MVP (four sections filled). |
 
 ```text
 Feeling (1 word):
 Behind | On track | Ahead:
-Today's MVP (1 sentence): four-section project write-up spine in a shareable doc
+Today's MVP (1 sentence): four-section project write-up outline in a linkable doc
 ```
 
 ### Facilitator notes
 
 - **Teach from** `Lessons/writing-lab.md` (canonical). Keep `Lessons/07-Writing-Lab.md` as a pointer so old bookmarks don’t 404.
-- Continuity: Day 6 tickets / ROAM / thin PRD. Reuse the threads (or own-project) example — do not invent a new product mid-block.
+- Continuity: Day 6 tickets / ROAM / short PRD. Reuse the threads (or own-project) example — do not invent a new product mid-session.
 - Voice: short speakable blocks. On-the-job builder voice. No classroom / roster language in the body.
-- Old source had breakouts + `spd-jr` channel validation. Thin/remote rooms: Activity 1 is solo-capable; teammate swap in Activity 2 is optional 90s, never required.
+- Old source had breakouts + `spd-jr` channel validation. Small/remote rooms: Activity 1 is solo-capable; teammate swap in Activity 2 is optional 90s, never required.
 - Keep all four ASK AUDIENCE pulses; they replace digressions.
-- Behind at ~0:30? Cut Observable deep-skim — use HN front page titles only → jump to four-section spine → Activity 2.
-- Live-model the threads write-up spine (TT §4) on a shared doc for four minutes. Then get out of the way.
+- Behind at ~0:30? Cut Observable deep-skim — use HN front page titles only → jump to four-section outline → Activity 2.
+- Live-model the threads write-up outline (TT §4) on a shared doc for four minutes. Then get out of the way.
 - Observable may rate-limit some networks; HN front page + guidelines are the fallback pattern source.
 - Projector spare: none required. This file is the teach-from.
 
 ### Expert follow-ups
 
-Flag for follow-up (do not block the live block):
+Flag for follow-up (do not block the live session):
 
 1. **Observable durability** — if `@tomlarkworthy/hacker-favourites-analysis` dies, replace with another public HN-corpus write-up; keep HN guidelines + front page as floor.
-2. **Deliverable surface** — confirm whether final project wants Google Doc, README, or both; spine stays the same.
+2. **Deliverable surface** — confirm whether final project wants Google Doc, README, or both; outline stays the same.
 3. **Channel validation** — old `spd-jr` peer-response step retired for audience-dependence; restore only if a standing async channel prompt exists.
 4. **Old numbered path** — keep `07-Writing-Lab.md` as a stub pointer to `writing-lab.md`.
 
