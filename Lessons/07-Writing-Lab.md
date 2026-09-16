@@ -201,29 +201,29 @@ Say:
 
 ## [**25m**] 💻 Activity 1: Analyze Hacker News High Ranking Posts
 
-**Done when:** You have (1) three patterns you’ll reuse, (2) two anti-patterns you’ll avoid, (3) a feedback map on one draft section (yours or a teammate’s prior notes).
+> **DONE WHEN:** You have (1) three patterns you’ll reuse, (2) two anti-patterns you’ll avoid, (3) a feedback map on one draft section (yours or a teammate’s prior notes).
 
 1. Open the [Observable HN favorites analysis](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis) and skim [HN](https://news.ycombinator.com/) for five minutes. Solo is fine.
 1. Fill this card:
 
-```text
-Patterns to reuse (3):
-Anti-patterns to avoid (2):
-One title/hook shape I want to try:
-```
+    ```text
+    Patterns to reuse (3):
+    Anti-patterns to avoid (2):
+    One title/hook shape I want to try:
+    ```
 
 1. Pull one paragraph of project notes (Slack, README stub, or ticket “why”). Run the feedback map on it:
 
-```text
-Section that is strong:
-Section that is missing or unclear:
-One cut I would make:
-One question a new reader would still ask:
-```
+    ```text
+    Section that is strong:
+    Section that is missing or unclear:
+    One cut I would make:
+    One question a new reader would still ask:
+    ```
 
-**PROTIP:** stop at the card. Do not start the full essay until Activity 2. Pattern first, prose second.
+> **PROTIP:** Stop at the card. Do not start the full essay until Activity 2. Pattern first, prose second.
 
-If you finish early: rewrite one weak title into a challenge-first hook (no stack in the title).
+> **FINISHED EARLY?** Rewrite one weak title into a challenge-first hook (no stack in the title).
 
 <!-- > -->
 
