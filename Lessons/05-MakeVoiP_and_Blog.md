@@ -43,7 +43,7 @@ Friendster was an early social network that lost to Facebook. Two angles on the 
 - [Founder Jonathan Abrams on Friendster](https://mashable.com/2014/02/03/jonathan-abrams-friendster-facebook/)
 - [Wired: Friendster autopsy](https://www.wired.com/2013/02/friendster-autopsy/)
 
-Skim both for about eight minutes (or split: half the room on Mashable, half on Wired). Then jot:
+Skim both for about eight minutes (or split the team: half on Mashable, half on Wired). Then jot:
 
 ```text
 One claim both pieces agree on:
@@ -98,13 +98,13 @@ A strong consult does four things:
 1. Names a **pain** real users feel this week
 1. Proposes a **change** (feature, UX, or policy) that attacks that pain
 1. Shows **why this company** (mission fit, not a random wishlist)
-1. Leaves a **doc a stranger can open** without you narrating it live
+1. Leaves a **doc a reader can open** without you narrating it live
 
 Questions that surface good engineering problems:
 
 - What do you wish was easier in daily use?
 - What utility or API would change your day the most?
-- What could you automate so the team ships faster?
+- What could you automate so the team gets more done?
 - What would make a teammate’s day more useful (or less painful)?
 
 > **💬 QUICK CHECK:** Your teammate pitches “add dark mode” to Zoom with no user pain named. Pitch or wishlist?
@@ -116,7 +116,7 @@ Questions that surface good engineering problems:
 
 </details>
 
-**BE AWARE:** copying a competitor’s entire feature list. The room wants *your* unique problem + a fix Zoom or Discord could ship.
+> **‼️ BE AWARE:** Copying a competitor’s entire feature list. The session wants *your* unique problem plus a fix Zoom or Discord could release.
 
 ### 3. Why Short Eng Posts Still Matter (~7m)
 
@@ -136,7 +136,7 @@ Same outline as last session’s write-up lab:
 Challenge → Approach → Outcome → One takeaway
 ```
 
-Loose technical spine:
+Loose technical outline:
 
 ```text
 Peak traffic melted the app
@@ -164,7 +164,7 @@ Anything that names a person + a pain works. “Hiring managers bounced because 
 
 </details>
 
-**PROTIP:** open with the pain, not the framework. The stack is secondary. The challenge is the story.
+> **📈 PROTIP:** Open with the pain, not the framework. The stack is secondary. The challenge is the story.
 
 <!-- > -->
 
@@ -177,34 +177,35 @@ Stretch. Reopen Zoom/Discord mission tabs and your blank proposal doc. After bre
 ## [**40m**] 💻 Activity 1: MakeVoiP Product Consult
 
 > **✅ DONE WHEN:** Your team has a Google Doc (or similar) with a share link that covers pain points, feature / product change recommendations, UX improvements, and at least one extra idea — ready to present for feedback in #general.
-> **📈 SHORTCUT:** Pick Zoom *or* Discord in the first two minutes. Switching mid-hour burns the proposal.
-> **FINISHED EARLY?** Stress-test the proposal: “What would a skeptical eng manager ask first?” Add that Q&A section.
 
 1. Form a small team (3–4). One person creates a blank Google Doc and shares edit access.
 1. Agree on **Zoom** or **Discord** after a quick skim of the mission page.
 1. Brainstorm from the solve questions (wish easier / high-impact utility / automate / make the day better). Capture concrete pain users feel this week.
 1. Write the proposal with these sections:
 
-```text
-Company (Zoom | Discord) + one-line mission fit
-Pain points (3+) with who feels them
-Feature / product change recommendations
-UX improvements
-Other ideas
-Open questions for the exec room
-```
+    ```text
+    Company (Zoom | Discord) + one-line mission fit
+    Pain points (3+) with who feels them
+    Feature / product change recommendations
+    UX improvements
+    Other ideas
+    Open questions for the exec room
+    ```
 
-5. Paste the **share link** where the session tracks deliverables (channel thread or assignment path your facilitator names; skip any third-party grade portal).
-6. Be ready for a short all-room present: each team intros one recommendation; peers leave feedback in #general.
+1. Paste the **share link** where the session tracks deliverables (channel thread or assignment path your facilitator names; skip any third-party grade portal).
+1. Be ready for a short all-team present: each team intros one recommendation; peers leave feedback in #general.
+
+> **📈 SHORTCUT:** Pick Zoom *or* Discord in the first two minutes. Switching mid-hour burns the proposal.
 
 > **‼️ WATCH OUT:** “Make it cooler” without a named user. Every recommendation needs a who + a pain.
+
+> **FINISHED EARLY?** Stress-test the proposal: “What would a skeptical eng manager ask first?” Add that Q&A section.
 
 <!-- > -->
 
 ## [**35m**] 💻 Activity 2: Blog Workshop Draft
 
 > **✅ SHIP WHEN:** You have a linkable doc (Google Doc, draft blog post, or README section) with **100–300+ words** covering challenge, approach, outcome, and one takeaway.
-> **‼️ PITFALL:** Writing only for people who sat in the room. If the draft needs you live-narrating it, it isn’t done.
 
 Prompts (use one, both, or a mix):
 
@@ -224,13 +225,15 @@ Fill these points in some form:
 1. Drop the **share link** in the same deliverable thread as Activity 1.
 1. Optional 90s teammate swap: trade links; name one strong section and one missing section.
 
+> **‼️ PITFALL:** Writing only for people who were in the session. If the draft needs you live-narrating it, it isn’t done.
+
 > **📈 DO THIS:** If the project feels detached from any purpose, write that feeling into the draft — then say how you’ll pick the next project differently. Honest beats polished empty.
 
 <!-- > -->
 
 ## [**5m**] Wrap Up
 
-- **Tonight:** Finish any thin sections on the proposal or the blog draft so both links open clean for a stranger.
+- **Tonight:** Finish any thin sections on the proposal or the blog draft so both links open clean for a reader who was not in the session.
 - **Next session:** Pitch / validate — you’ll reuse today’s writing muscle on users and YC-style framing.
 - **Optional:** Form a tiny accountability pair for one short post a week — same outline every time.
 - **Stuck?** Re-open the Friendster jot lines: unchecked assumption → pain → fix. That chain is the whole day.
@@ -267,15 +270,14 @@ Today's MVP: Zoom/Discord proposal doc + short eng blog draft (both linkable)
 
 ### Facilitator Notes
 
-- **Teach from** this draft locally; ship path when PR unblocks: `Lessons/05-MakeVoiP_and_Blog.md`.
+- **Teach from** the local dated draft; ship path: `Lessons/05-MakeVoiP_and_Blog.md` (PR #4 open on `lesson/makevoip-blog-fall2026`).
 - Continuity: prior Writing Lab four-section outline (challenge → approach → outcome → takeaway). Reuse that language; don’t invent a new narrative shape.
 - Gradescope paths from the legacy source are **retired** — collect Google Doc / blog share links in-channel or via the live assignment surface in the repo.
-- Friendster articles: if Mashable/Wired are slow, assign half the room each and pool answers.
+- Friendster articles: if Mashable/Wired are slow, split the team half/half and pool answers.
 - MakeVoiP present: keep to one recommendation per team + #general feedback form/thread. High visibility is the point; timebox presents.
 - Blog examples (Dan Morse / InsideBigData) are optional skim — not required reading before Activity 2.
 - Voice: on-the-job builder. No classroom / roster language in the learner body.
 - Behind at ~0:45? Cut TT §3 deep examples → jump to Activity 1 after the consult pulses.
-- CloudAgent / GitHub PR blocked this week (Cursor usage) — local NEW draft only until droxey PR path reopens.
 
 ### Expert Follow-Ups
 
