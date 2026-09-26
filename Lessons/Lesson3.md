@@ -1,4 +1,6 @@
-# Introduction to SPD 1.5 and the First Coding Activity
+# Situational Awareness (archive)
+
+> **Not on the Fall 2026 schedule.** Kept as optional reference. Teach from the [syllabus table](../README.md) instead.
 
 ## Minute-by-Minute [OPTIONAL]
 
@@ -18,9 +20,9 @@ By the end of this class, you should be able to...
 1. Use SA to be a better job candidate and teammate.
 1. Increase your own SA
 
-## 🤝 [10m] A word from the SPD team on Industry Collaboration 
+## 🤝 [10m] A word on Industry Collaboration 
 
-Students can take charge of what projects and partners they work with in senior level SPD courses (if they so desire). 
+Students can take charge of what projects and partners they work with in senior-level ACS courses (if they so desire). 
 
 Take a quick [run through of these slides if interested!](https://docs.google.com/presentation/d/1STzuJNIBg-npS0Khp3r4YP4O20H4-XkDE80wHWA_C5c/edit#slide=id.gdea1bac13e_0_125)
 

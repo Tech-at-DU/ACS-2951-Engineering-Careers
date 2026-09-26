@@ -14,7 +14,7 @@
 | - MIN     | 💪 Q&A + Wrap Up       |
 
 ## 🔭 [05m] Class Overview
-- Review course syllabus and high level understand of SPD 1.5
+- Review course syllabus and high-level understanding of ACS 2951
 
 ## 🏆 [05m] Learning Objectives
 
@@ -34,7 +34,7 @@ Jump into team based breakout rooms and make documents that capture the followin
 - Product Timeline with Dates (research > requirements > UX + development > launch > analyize and pivot)  
 - Issue Tracking (Kanban board tools such as Trello, Asana, etc.)
 - A [painless product requirements doc](https://www.uxpin.com/studio/blog/write-good-product-requirements-document/)
-- Start a repository and outline a [great README file](https://github.com/Make-School-Courses/SPD-1.5-Engineering-Careers-2/blob/master/Lessons/04-README-Please.md)
+- Start a repository and outline a [great README file](Lessons/04-README-Please.md)
 - Create an engineering ticket outline that will be used across the project
 
 
@@ -52,11 +52,11 @@ Time to get back together with your project groups!
 
 Review what [makes a great pitch deck and start working on yours!](https://www.cooleygo.com/7-tips-building-perfect-pitch-deck/)
 
-Next, **before you build anything substantial**, write a short 100-to-300 word blog post that summarizes the key points of your project and **share it around Make School!**
+Next, **before you build anything substantial**, write a short 100-to-300 word blog post that summarizes the key points of your project and **share it with the class / cohort channels!**
 
 Use the pitch deck as a loose outline and capture the best selling points from your due diligence documents.
 
-Start by sharing it in the #spd-jr.
+Start by sharing it where your instructor posts cohort updates.
 
 Once you've posted your content, take some time to give feedback on another group's final project! You must generate value to receive value. 😉
 
