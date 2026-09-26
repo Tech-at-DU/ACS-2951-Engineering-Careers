@@ -1,2 +1,3 @@
 *  **[Syllabus](README.md)**
-* [Make School](https://www.makeschool.com)
+* [Dominican University](https://www.dominican.edu)
+* [Tech at DU](https://github.com/Tech-at-DU)

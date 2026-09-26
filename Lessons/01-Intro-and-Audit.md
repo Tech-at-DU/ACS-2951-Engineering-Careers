@@ -1,4 +1,4 @@
-# Introduction to SPD 1.5 and the First Coding Activity
+# Introduction to ACS 2951 and the First Coding Activity
 
 ## Minute-by-Minute [OPTIONAL]
 
@@ -15,7 +15,7 @@
 | - MIN     | 💪 Q&A + Wrap Up       |
 
 ## 🔭 [05m] Class Overview
-- Review course syllabus and high level understand of SPD 1.5
+- Review course syllabus and high-level understanding of ACS 2951
 
 ## 🏆 [05m] Learning Objectives
 

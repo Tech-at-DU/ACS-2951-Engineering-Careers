@@ -13,4 +13,4 @@
 1. Have you handled a difficult situation with a supervisor? How?
 1. Have you handled a difficult situation with another department? How?
 1. Have you handled a difficult situation with a client or vendor? How?
-1. Tell me about your education and Make School.
+1. Tell me about your education and this program.

@@ -2,7 +2,7 @@
 
 ## Course Description
 
-This course focuses on engineering careers, particularly on leadership: coaching, leading people and organizations. You will also focus on solving coding challenges and preparing for technical interviews. Builders who perform well in this class will have the option to become peer coaches for incoming cohorts at the start of the new school year.
+This course focuses on engineering careers, particularly on leadership: coaching, leading people and organizations. You will also focus on solving coding challenges and preparing for technical interviews. Students who perform well in this class may have the option to become peer coaches for incoming cohorts.
 
 ### Why you should know this
 
@@ -10,7 +10,7 @@ The material here continues to prepare you for technical interviews, and for sta
 
 ## Prerequisites
 
-- [SPD 1.4](https://github.com/Make-School-Courses/SPD-1.4)
+None ([Dominican catalog](https://dominican.smartcatalogiq.com/en/2025-2026/academic-catalog/courses/acs-applied-computer-science/2000/acs-2951)).
 
 ## Course Specifics
 
@@ -44,11 +44,10 @@ By the end of the course, you will be able to ...
 | 8 | Wed Sep 23 | [Pitch / YC Application / Blog](Lessons/Validate-Users.md) |
 | 9 | Mon Sep 28 | Behavioral interviewing (STAR) — [Common BI Questions](Assignments/common-bi-questions.md) |
 | 10 | Wed Sep 30 | Live online interviews & take-homes — [Coderpad / Take-Home deck](https://docs.google.com/presentation/d/1WTwYSz6z5PHdS3_AAlu9UbWFmEd5VwqaCtTLMUoTqOw/edit) |
-| 11 | Mon Oct 5 | Technical interview challenges lab — [tracker](https://docs.google.com/spreadsheets/d/1Yy5_GPr2osziCDxGHsB1NdYfV1CPYC9opydWv5ttU7U/edit#gid=1627861240) |
+| 11 | Mon Oct 5 | Technical interview challenges lab — see tracker note below |
 | 12 | Wed Oct 7 | Capstone demos / wrap |
 
-Tracker (assignments + personal goals): [Schedule spreadsheet](https://docs.google.com/spreadsheets/d/1Yy5_GPr2osziCDxGHsB1NdYfV1CPYC9opydWv5ttU7U/edit#gid=739715921)
-
+**Tracker note (Fall 2026):** The linked [schedule / goals spreadsheet](https://docs.google.com/spreadsheets/d/1Yy5_GPr2osziCDxGHsB1NdYfV1CPYC9opydWv5ttU7U/edit#gid=739715921) is a **Summer 2022** cohort sheet (May–July calendar + historical standups). Use it only as a format reference until staff publish a Fall 2026 tracker. Do not treat its due dates, student rows, or mentor names as current.
 
 ## Resources
 
@@ -60,7 +59,7 @@ Tracker (assignments + personal goals): [Schedule spreadsheet](https://docs.goog
 
 ## Class Assignments
 
-All class work assignments are in the [tracker](https://docs.google.com/spreadsheets/d/1Yy5_GPr2osziCDxGHsB1NdYfV1CPYC9opydWv5ttU7U/edit#gid=1627861240)
+Staff will confirm submission links when the Fall 2026 tracker is published. Until then, aim for:
 
 - Complete 2 of 3 of your personal goals
 - Complete at least 3 of the 5 Technical Interview Challenges
@@ -69,14 +68,11 @@ All class work assignments are in the [tracker](https://docs.google.com/spreadsh
 **Evaluation:**
 Using the Portfolio Product Rubric for the respective track
 
-## ACS Course Policies
+## Course Policies (Dominican University)
 
-- [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
-- [Grading System](https://make.sc/grading-system) - How grading is done at Make School
-- [Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct) - Learn about Diversity and Inclusion at Make School
-- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
-- [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
-- [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
-- [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
-- [Online Learning Tutorial](https://make.sc/online-learning-tutorial) - How to succeed in online learning at Make School
-- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
+University policies live in the Academic Catalog and Student Handbook — not the retired Make School `make.sc` shortlinks.
+
+- [Academic Catalog](https://www.dominican.edu/directory/registrar/academic-catalog) — grading, attendance, academic honesty / Honor Code, credit policies
+- [ACS 2951 catalog entry](https://dominican.smartcatalogiq.com/en/2025-2026/academic-catalog/courses/acs-applied-computer-science/2000/acs-2951)
+- [Student Handbook and Policies](https://www.dominican.edu/campus-life/student-handbook-and-policies) — code of conduct and community standards
+- [Accessibility and Disability Services](https://www.dominican.edu/campus-life/student-services-and-resources/accessibility-and-disability-services) — academic accommodations

@@ -204,7 +204,7 @@ If stuck: write only the Founders answer line — one sentence — then fill Pro
 
 ## 📚 Additional Resources
 
-1. [PMs & Communication SPD 1.02](https://docs.google.com/presentation/d/1cK3U9-87ysDcjOVdVOhJNniNiO77FZtIrUixGYonxKU/edit)
+1. [PMs & Communication deck](https://docs.google.com/presentation/d/1cK3U9-87ysDcjOVdVOhJNniNiO77FZtIrUixGYonxKU/edit)
 1. [05. PMs & Communication](https://drive.google.com/drive/folders/1HRr5fEK-moO3IWdxZni4178U52EqQ0Hn)
-1. [ACS 2951 (SPD 1.5)](https://drive.google.com/drive/folders/1BT-2RYJtEsvSe4xwhHNPrHc9yF2kiC6L)
+1. [ACS 2951 course folder](https://drive.google.com/drive/folders/1BT-2RYJtEsvSe4xwhHNPrHc9yF2kiC6L)
 1. [How to Write a Self-Paced Lesson](https://docs.google.com/document/d/16O2xGeNSayfQ1cC03fwMKzBA25c5yrnMrrQ5QfKyY50)

@@ -1,5 +1,11 @@
 - **[Syllabus](README.md)**
 
-- [Course + Interviewing Intro / Project Audit](/Lessons/01-Intro-and-Audit)
-- [Pretty Portfolio Projects, Please](/Lessons/02-ProjectUI.md)
-- [Ticket Writing](/Lessons/tickets.md)
+- [1 · Intro + Project Audit](/Lessons/01-Intro-and-Audit.md)
+- [2 · Pretty Portfolio Projects, Please](/Lessons/02-ProjectUI.md)
+- [3 · README Please](/Lessons/04-README-Please.md)
+- [4 · PMs & Communication](/Lessons/PM.md)
+- [5 · Ticket Writing](/Lessons/tickets.md)
+- [6 · Writing Lab](/Lessons/writing-lab.md)
+- [7 · MakeVoiP and Blog](/Lessons/05-MakeVoiP_and_Blog.md)
+- [8 · Pitch / YC / Blog](/Lessons/Validate-Users.md)
+- [9 · Behavioral Interviewing](/Assignments/common-bi-questions.md)
