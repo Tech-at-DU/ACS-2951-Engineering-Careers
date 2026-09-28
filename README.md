@@ -42,13 +42,10 @@ By the end of the course, you will be able to ...
 | 6 | Wed Sep 16 | [Writing Lab](Lessons/writing-lab.md) |
 | 7 | Mon Sep 21 | [MakeVoiP and Blog About It](Lessons/05-MakeVoiP_and_Blog.md) |
 | 8 | Wed Sep 23 | [Pitch / YC Application / Blog](Lessons/Validate-Users.md) |
-| 9 | Mon Sep 28 | Behavioral interviewing (STAR) — [Common BI Questions](Assignments/common-bi-questions.md) |
+| 9 | Mon Sep 28 | [Behavioral Interviewing (STAR)](Lessons/BehavioralInterviewing.md) — [Common BI Questions](Assignments/common-bi-questions.md) |
 | 10 | Wed Sep 30 | Live online interviews & take-homes — [Coderpad / Take-Home deck](https://docs.google.com/presentation/d/1WTwYSz6z5PHdS3_AAlu9UbWFmEd5VwqaCtTLMUoTqOw/edit) |
-| 11 | Mon Oct 5 | Technical interview challenges lab — [tracker](https://docs.google.com/spreadsheets/d/1Yy5_GPr2osziCDxGHsB1NdYfV1CPYC9opydWv5ttU7U/edit#gid=1627861240) |
+| 11 | Mon Oct 5 | Technical interview challenges lab |
 | 12 | Wed Oct 7 | Capstone demos / wrap |
-
-Tracker (assignments + personal goals): [Schedule spreadsheet](https://docs.google.com/spreadsheets/d/1Yy5_GPr2osziCDxGHsB1NdYfV1CPYC9opydWv5ttU7U/edit#gid=739715921)
-
 
 ## Resources
 
@@ -60,7 +57,7 @@ Tracker (assignments + personal goals): [Schedule spreadsheet](https://docs.goog
 
 ## Class Assignments
 
-All class work assignments are in the [tracker](https://docs.google.com/spreadsheets/d/1Yy5_GPr2osziCDxGHsB1NdYfV1CPYC9opydWv5ttU7U/edit#gid=1627861240)
+All class work assignments are linked in the [Schedule](#schedule) above.
 
 - Complete 2 of 3 of your personal goals
 - Complete at least 3 of the 5 Technical Interview Challenges
