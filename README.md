@@ -47,9 +47,6 @@ By the end of the course, you will be able to ...
 | 11 | Mon Oct 5 | Technical interview challenges lab |
 | 12 | Wed Oct 7 | Capstone demos / wrap |
 
-Tracker (assignments + personal goals): [Schedule spreadsheet](https://docs.google.com/spreadsheets/d/1Yy5_GPr2osziCDxGHsB1NdYfV1CPYC9opydWv5ttU7U/edit#gid=739715921)
-
-
 ## Resources
 
 - **User Interviews** - user interviews help you understand and validate user needs. Here are user interview [best practices](https://docs.google.com/presentation/d/1xtUGbErF315eKkvVAstTnWzoXLmpygtf6YGTEMYwg_A/edit#slide=id.p) and a [template script](https://docs.google.com/document/d/1uRRKejC3Ullk5vdw9P1SHmE56CGkekH2dIaoBV9ISeM/edit)
@@ -60,7 +57,7 @@ Tracker (assignments + personal goals): [Schedule spreadsheet](https://docs.goog
 
 ## Class Assignments
 
-All class work assignments are in the [tracker](https://docs.google.com/spreadsheets/d/1Yy5_GPr2osziCDxGHsB1NdYfV1CPYC9opydWv5ttU7U/edit#gid=1627861240)
+All class work assignments are linked in the [Schedule](#schedule) above.
 
 - Complete 2 of 3 of your personal goals
 - Complete at least 3 of the 5 Technical Interview Challenges
