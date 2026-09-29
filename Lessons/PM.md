@@ -1,4 +1,4 @@
-<!-- Run as a slideshow: reveal-md Lessons/Lesson05-PMs.md -w -->
+<!-- Run as a slideshow: reveal-md Lessons/PM.md -w -->
 # PMs & Communication
 
 ⭐️ **GOAL**: Walk out able to say what a PM owns, write one answer-first stakeholder pitch, and push back on scope with a real tradeoff.
