@@ -10,7 +10,7 @@ The material here continues to prepare you for technical interviews, and for sta
 
 ## Prerequisites
 
-- [SPD 1.4](https://github.com/Make-School-Courses/SPD-1.4)
+None
 
 ## Course Specifics
 
@@ -66,14 +66,8 @@ All class work assignments are linked in the [Schedule](#schedule) above.
 **Evaluation:**
 Using the Portfolio Product Rubric for the respective track
 
-## ACS Course Policies
+## Dominican University Course Policies
 
-- [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
-- [Grading System](https://make.sc/grading-system) - How grading is done at Make School
-- [Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct) - Learn about Diversity and Inclusion at Make School
-- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
-- [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
-- [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
-- [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
-- [Online Learning Tutorial](https://make.sc/online-learning-tutorial) - How to succeed in online learning at Make School
-- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
+- [Applied Computer Science (ACS) Program Catalog](https://dominican.smartcatalogiq.com/en/2026-2027/academic-catalog/undergraduate-degree-programs/applied-computer-science-bs/) - Program learning outcomes and course descriptions; all ACS courses are designed around these outcomes.
+- [Student Handbook and Code of Conduct](https://docs.google.com/document/d/1LC4i1U3rQzTjzK7hRMO2ari96v0u3jn26E-SityeQ6c/edit#heading=h.cv06ozs4nc7g) - Grading, academic honesty, attendance, course credit, and conduct policies for all Dominican University students.
+- [Accessibility and Disability Services](https://www.dominican.edu/campus-life/student-services-and-resources/accessibility-and-disability-services) - Services and accommodations we provide for students.
