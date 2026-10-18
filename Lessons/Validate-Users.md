@@ -34,7 +34,7 @@ Jump into team based breakout rooms and make documents that capture the followin
 - Product Timeline with Dates (research > requirements > UX + development > launch > analyize and pivot)  
 - Issue Tracking (Kanban board tools such as Trello, Asana, etc.)
 - A [painless product requirements doc](https://www.uxpin.com/studio/blog/write-good-product-requirements-document/)
-- Start a repository and outline a [great README file](https://github.com/Make-School-Courses/SPD-1.5-Engineering-Careers-2/blob/master/Lessons/04-README-Please.md)
+- Start a repository and outline a [great README file](/Lessons/04-README-Please.md)
 - Create an engineering ticket outline that will be used across the project
 
 
