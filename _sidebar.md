@@ -2,6 +2,12 @@
 
 - [Course + Interviewing Intro / Project Audit](/Lessons/01-Intro-and-Audit)
 - [Pretty Portfolio Projects, Please](/Lessons/02-ProjectUI.md)
+- [README Please](/Lessons/04-README-Please.md)
+- [PMs & Communication](/Lessons/PM.md)
 - [Ticket Writing](/Lessons/tickets.md)
+- [Writing Lab](/Lessons/writing-lab.md)
+- [MakeVoiP and Blog About It](/Lessons/05-MakeVoiP_and_Blog.md)
+- [Pitch / YC Application / Blog](/Lessons/Validate-Users.md)
 - [Behavioral Interviewing (STAR)](/Lessons/BehavioralInterviewing.md)
+- [Common BI Questions](/Assignments/common-bi-questions.md)
 - [Live Online Interviews & Take-Homes](/Lessons/LiveOnlineInterviews.md)
