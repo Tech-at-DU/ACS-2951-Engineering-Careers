@@ -51,6 +51,7 @@ By the end of the course, you will be able to ...
 
 - **Sprint Planning Meetings (1 hour, weekly)** - Led by the PM. Team checks their roadmap and evaluate teams’ needs to decide what goes into the next sprint, and assign tasks. Teams can use [planning poker](https://en.wikipedia.org/wiki/Planning_poker) to estimate task effort. Everything is logged into Trello. You can copy this [Sprint Planning Trello Board template](https://trello.com/b/AU9r774H/kanban-board-template).
 - **Sprint Retrospective (½ hour, weekly)** - Complete the old sprint board by checking all tickets and moving incomplete ones over to the next sprint board. Then estimate the tickets that the PM have moved into the board ahead of meeting. Go over what was completed, what went well not if it didn’t go so well, but double check how everyone felt. Anyone feel overloaded on work? Anything the PM could have done differently? [Sprint Retrospective Trello Board Template](https://trello.com/b/qRzOdBvj/eng-retro-board-template).
+- **Teamwork Rubric** - [rubric](https://docs.google.com/document/d/1cDLUJJ_E7QVAFNbZYShpammHz1z0TNVJr3B89MSPzK8/edit) for individual performance on team and full team performance
 
 ## Class Assignments
 
