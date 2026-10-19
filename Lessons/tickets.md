@@ -423,7 +423,6 @@ Tomorrow's first 15m:
 
 ## Additional Resources
 
-1. **[Ticket Writing slides](https://docs.google.com/presentation/d/1ELpW7E9ccpW3rDtMEEaq57dvix00ca0GB2dxhrleJOY/edit#slide=id.p)** — older deck (same beats: feature parts, bugs, ROAM). Teach from this file; use the deck as a projector spare.
 1. **[Ticket Writing — How to Write Requirements and Not Flip a Table](https://docs.google.com/presentation/d/1hbLIYsSZjO8upXxiEfxEn4T91GDK5ILKUwEEoXE1vaw/edit)** — alternate copy of the same lesson slides.
 1. **[ROAM & risk management under SAFe (PTC)](https://www.ptc.com/en/blogs/alm/roam-risk-management)** — Resolve / Own / Accept / Mitigate background (replaces dead Intland URL).
 1. **[Atlassian — user stories](https://www.atlassian.com/agile/project-management/user-stories)** — persona / want / so-that shape.
