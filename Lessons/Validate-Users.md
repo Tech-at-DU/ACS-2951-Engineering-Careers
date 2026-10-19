@@ -60,7 +60,7 @@ Start by sharing it in #acs-2951.
 
 Once you've posted your content, take some time to give feedback on another group's final project! You must generate value to receive value. 😉
 
-As you collect feedback that validates the project, [watch for falling rocks!](https://docs.google.com/presentation/d/1ERErlV1z4AhkvWi6vvFYaaZ3YKAzS2WphQDRR0dQgR0/edit#slide=id.g56528dfe23_0_125)
+As you collect feedback that validates the project, watch for falling rocks!
 
 Does any of the feedback warrant further investigation due to bad signals?
 
